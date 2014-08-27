@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
  s.ios.deployment_target = '6.0'
  s.source_files = 'evernote-sdk-ios/**/*.{h,m}'
  s.resources = 'ENSDKResources.bundle'
- s.frameworks = 'MobileCoreServices', 'libxml2'
+ s.frameworks = 'MobileCoreServices', 'xml2'
  s.requires_arc = true
 end
