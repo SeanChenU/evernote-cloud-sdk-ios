@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
- s.name = 'Evernote Cloud'
+ s.name = 'ENSDK'
  s.version = '2.0'
  s.license = 'MIT'
  s.summary = 'Evernote Cloud SDK For iOS'
