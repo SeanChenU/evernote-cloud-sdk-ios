@@ -1,6 +1,13 @@
 Forked from evernote-cloud-sdk-ios by Evernote
+==============================================
 
-- Add podspec
+- Add podspec for Cocoapods
+
+How to use?
+-----------
+```
+pod 'ENSDK', :git=>'https://github.com/SeanChenU/evernote-cloud-sdk-ios.git'
+```
 
 Evernote Cloud SDK 2.0 for iOS
 ==============================
