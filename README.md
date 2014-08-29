@@ -1,3 +1,7 @@
+Forked from evernote-cloud-sdk-ios by Evernote
+
+- Add podspec
+
 Evernote Cloud SDK 2.0 for iOS
 ==============================
 
